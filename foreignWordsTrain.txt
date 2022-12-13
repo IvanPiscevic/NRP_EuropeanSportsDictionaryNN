@@ -1,0 +1,147 @@
+= 12 stranih jezika, ukupno 144 stranih rijeci
+= engleski, njemacki, francuski, talijanski, spanjolski, portuglaski,
+= nizozemski, ceski, poljski, danski, svedski, norveski
+football
+fußball
+football
+calcio
+futbol
+futebol
+voetbal
+fotbal
+pilka nozna
+fodbol
+fotboll
+fotball
+basketball
+basketball
+basketball
+pallacanestro
+baloncesto
+basquetebol
+basketbal
+basketball
+Koszykowka
+basketball
+basketboll
+basketball
+handball
+handball
+handball
+palla a mano
+balonmano
+handebol
+handbal
+hazena
+gra w pilke reczna
+handbold
+handboll
+handball
+swimming
+schwimmen
+la natation
+nuoto
+nadando
+natacao
+zwemmen
+plavani
+plywanie
+svomning
+simning
+swomme
+competition
+wettbewerb
+competition
+concorrenza
+competencia
+concorrencia
+wedstrijd
+soutez
+zawody
+konkurrence
+konkurrens
+konkurranse
+ball
+ball
+ballon
+palla
+pelota
+bola
+bal
+mic
+pilka
+bold
+boll
+ball
+running
+laufen
+fonctionnement
+in esecuzione
+corriendo
+corrida
+lopend
+beh
+bieganie
+lob
+lopning
+loping
+trophy
+trophae
+trophee
+trofeo
+trofeo
+trofeu
+trofee
+trofej
+trofeum
+trofae
+trofen
+trofe
+medal
+medaille
+medaille
+medaglia
+medalla
+medalha
+medaille
+medaile
+medal
+medalje
+medalj
+medalje
+skiing
+Skifahren
+ski
+sciare
+esquiar
+esquiar
+skien
+lyzovani
+jazda na nartach
+sta pa ski
+skidakning
+sta pa ski
+hockey
+eishockey
+le hockey
+hockey
+hockey
+hoquei
+hockey
+hokej
+hokej
+hockey
+hockey
+hockey
+water polo
+wasser polo
+water polo
+pallanuoto
+polo acuatico
+polo aquatico
+waterpolo
+vodni polo
+wodne polo
+vandpolo
+vattenpolo
+vannpolo

@@ -1,0 +1,15 @@
+======
+=TEST
+======
+futbol
+=basketbal
+=hadzana
+=plywanie
+=konkurentsiya
+=mic
+=trcanje
+=trofeum
+=medaile
+=skijanje
+=hokej
+=vodnoye polo
